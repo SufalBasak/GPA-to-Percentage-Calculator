@@ -30,8 +30,5 @@ This tool is responsive and has a **modern UI** with **animations** for smooth u
 To use the GPA to Percentage Calculator, clone the repository or download the files and open the HTML file in your browser.
 
 ```bash
-git clone https://github.com/your-username/gpa-to-percentage-calculator.git
-Email:sufalbasak199@gmail.com
-
 Website link:
 https://gpatopercebtage-calculation.netlify.app/
